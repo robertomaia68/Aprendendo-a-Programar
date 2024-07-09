@@ -1,2 +1,4 @@
 # Aprendendo a Programar
- Primeiro repositorio
+ Primeiro repositorio!
+
+ Aprendendo a programar!
